@@ -1,7 +1,7 @@
-ul.browser-default{
-    height: 110px;
-    overflow: hidden;
+ul.browser-default {
+  height: 110px;
+  overflow: auto;
 }
-li.collection-header{
-    height: 110px;
+li.collection-header {
+  height: 110px;
 }
